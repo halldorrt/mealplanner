@@ -1,0 +1,4 @@
+Dagbókin
+Finna út úr API aðgang
+Klára .mod skrá
+Aðlaga R skrá eða skrifa nýja skrá til að sækja gögn og keyra
