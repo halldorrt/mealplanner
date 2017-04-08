@@ -1,0 +1,90 @@
+[
+    {
+        "id": 30,
+        "name": "Mc Gauti og Sturla atlas",
+        "time": "2017-05-03",
+        "typeId": 1,
+        "typeDescriptionEng": "Concert",
+        "typeDescriptionIce": "T\u00f3nleikar",
+        "locationName": "Priki\u00f0",
+        "address": "Bankastr\u00e6ti 12",
+        "access": "Stigi inn \u00ed h\u00fasi\u00f0 og \u00e1 a\u00f0ra h\u00e6\u00f0. Engin ba\u00f0herbergisa\u00f0sta\u00f0a"
+    },
+    {
+        "id": 31,
+        "name": "Moses Hightower og Boogie Trouble off-venue",
+        "time": "2017-05-03",
+        "typeId": 1,
+        "typeDescriptionEng": "Concert",
+        "typeDescriptionIce": "T\u00f3nleikar",
+        "locationName": "Loft Hostel",
+        "address": "Bankastr\u00e6ti 7",
+        "access": "Fullkomi\u00f0 a\u00f0gengi"
+    },
+    {
+        "id": 32,
+        "name": "Fors\u00fdning \u00e1 n\u00fdju myndbandi Berndsen",
+        "time": "2017-05-03",
+        "typeId": 1,
+        "typeDescriptionEng": "Concert",
+        "typeDescriptionIce": "T\u00f3nleikar",
+        "locationName": "Kex Hostel",
+        "address": "Sk\u00falagata 28",
+        "access": "Fullkomi\u00f0 a\u00f0gengi"
+    },
+    {
+        "id": 33,
+        "name": "Oyama kemur heim",
+        "time": "2017-06-12",
+        "typeId": 1,
+        "typeDescriptionEng": "Concert",
+        "typeDescriptionIce": "T\u00f3nleikar",
+        "locationName": "Vinyl",
+        "address": "Hverfisgata 76",
+        "access": "Fullkomi\u00f0 a\u00f0gengi"
+    },
+    {
+        "id": 34,
+        "name": "Babies \u00e1 h\u00farra",
+        "time": "2017-06-13",
+        "typeId": 1,
+        "typeDescriptionEng": "Concert",
+        "typeDescriptionIce": "T\u00f3nleikar",
+        "locationName": "H\u00farra",
+        "address": "Tryggvagata 22",
+        "access": "Ekkert kl\u00f3sett og \u00fer\u00f6skuldur vi\u00f0 inngang"
+    },
+    {
+        "id": 35,
+        "name": "Babies og Berndsen trylla dansg\u00f3lfi\u00f0",
+        "time": "2017-07-08",
+        "typeId": 1,
+        "typeDescriptionEng": "Concert",
+        "typeDescriptionIce": "T\u00f3nleikar",
+        "locationName": "H\u00farra",
+        "address": "Tryggvagata 22",
+        "access": "Ekkert kl\u00f3sett og \u00fer\u00f6skuldur vi\u00f0 inngang"
+    },
+    {
+        "id": 70,
+        "name": "bubbi a ht",
+        "time": "2017-04-19",
+        "typeId": 1,
+        "typeDescriptionEng": "Concert",
+        "typeDescriptionIce": "T\u00f3nleikar",
+        "locationName": "Bar 11",
+        "address": "Hverfisgata",
+        "access": "Sl\u00e6mt"
+    },
+    {
+        "id": 71,
+        "name": "kynning",
+        "time": "2017-04-20",
+        "typeId": 4,
+        "typeDescriptionEng": "Meeting",
+        "typeDescriptionIce": "Fundur",
+        "locationName": "Bar 11",
+        "address": "Hverfisgata",
+        "access": "Sl\u00e6mt"
+    }
+]
