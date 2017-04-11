@@ -1,0 +1,8 @@
+#Runs on console with include recipes.run;
+
+reset;
+model recipes.mod;
+data recipes.dat;
+solve;
+
+#display 
