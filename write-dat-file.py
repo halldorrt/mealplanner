@@ -27,7 +27,7 @@ list(map(lambda x: datfile.write(' ' + x), nutrients))
 datfile.write('\n;\n\n')
 
 datfile.write('set day :=')
-list(map(lambda x: datfile.write(' ' + str(x)), range(30)))
+list(map(lambda x: datfile.write(' ' + str(x)), range(1, 31)))
 datfile.write('\n;\n\n')
 
 datfile.write('param ready_time :=')

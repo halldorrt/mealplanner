@@ -7,7 +7,7 @@ set ingredient := sun-dried_tomato_wrap taleggio_cheese pine_nuts walnuts soy_sa
 set nutrient := Copper Potassium Calories Vitamin_A Zinc Cholesterol Vitamin_B12 Vitamin_B6 Manganese Vitamin_B3 Vitamin_B5 Sugar Magnesium Iron Vitamin_E Folate Protein Vitamin_B2 Fiber Phosphorus Calcium Vitamin_D Saturated_Fat Vitamin_B1 Selenium Sodium Fat Carbohydrates Vitamin_K
 ;
 
-set day := 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+set day := 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
 ;
 
 param ready_time :=
