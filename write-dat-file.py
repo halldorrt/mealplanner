@@ -26,12 +26,8 @@ datfile.write('set nutrient :=')
 list(map(lambda x: datfile.write(' ' + x), nutrients))
 datfile.write('\n;\n\n')
 
-datfile.write('set time :=')
+datfile.write('set day :=')
 list(map(lambda x: datfile.write(' ' + str(x)), range(30)))
-datfile.write('\n;\n\n')
-
-datfile.write('param maxlimit :=')
-list(map(lambda x: datfile.write('\n' + c(x['id']) + ' ' + str(3)), recipes))
 datfile.write('\n;\n\n')
 
 datfile.write('param ready_time :=')
@@ -40,6 +36,10 @@ datfile.write('\n;\n\n')
 
 datfile.write('param servings :=')
 list(map(lambda x: datfile.write('\n' + c(x['id']) + ' ' + c(x['servings'])), recipes))
+datfile.write('\n;\n\n')
+
+datfile.write('param price :=')
+list(map(lambda x: datfile.write('\n' + c(x['id']) + ' ' + str(x['price'])), recipes))
 datfile.write('\n;\n\n')
 
 datfile.write('param score :=')

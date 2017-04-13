@@ -5,6 +5,7 @@
         "ready-time": 45,
         "servings": 2,
         "score": 43.0,
+        "price": 94.53,
         "ingredients": [
             "almond meal",
             "dried basil",
@@ -142,6 +143,7 @@
         "ready-time": 45,
         "servings": 1,
         "score": 87.0,
+        "price": 210.02,
         "ingredients": [
             "low sodium soy sauce",
             "oregano",
@@ -279,6 +281,7 @@
         "ready-time": 43,
         "servings": 2,
         "score": 89.0,
+        "price": 307.45,
         "ingredients": [
             "canadian bacon",
             "cauliflower",
@@ -419,6 +422,7 @@
         "ready-time": 30,
         "servings": 8,
         "score": 35.0,
+        "price": 128.51,
         "ingredients": [
             "butter",
             "cheddar cheese",
@@ -557,6 +561,7 @@
         "ready-time": 15,
         "servings": 1,
         "score": 100.0,
+        "price": 403.99,
         "ingredients": [
             "balsamic vinegar",
             "kale",
@@ -696,6 +701,7 @@
         "ready-time": 15,
         "servings": 1,
         "score": 87.0,
+        "price": 198.91,
         "ingredients": [
             "bacon",
             "bbq sauce",
@@ -835,6 +841,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 68.0,
+        "price": 189.62,
         "ingredients": [
             "canned tomato sauce",
             "cherry tomatoes",
@@ -980,6 +987,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 96.0,
+        "price": 236.98,
         "ingredients": [
             "cherry tomatoes",
             "fresh basil",
@@ -1118,6 +1126,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 98.0,
+        "price": 140.08,
         "ingredients": [
             "balsamic vinegar",
             "canned chickpeas",
@@ -1254,6 +1263,7 @@
         "ready-time": 40,
         "servings": 6,
         "score": 59.0,
+        "price": 102.79,
         "ingredients": [
             "bbq sauce",
             "bread flour",
@@ -1393,6 +1403,7 @@
         "ready-time": 25,
         "servings": 8,
         "score": 75.0,
+        "price": 110.75,
         "ingredients": [
             "active yeast",
             "cooked chicken",
@@ -1535,6 +1546,7 @@
         "ready-time": 45,
         "servings": 2,
         "score": 96.0,
+        "price": 377.5,
         "ingredients": [
             "cauliflower",
             "eggs",
@@ -1675,6 +1687,7 @@
         "ready-time": 35,
         "servings": 8,
         "score": 92.0,
+        "price": 160.3,
         "ingredients": [
             "chicken breasts",
             "french bread",
@@ -1817,6 +1830,7 @@
         "ready-time": 15,
         "servings": 1,
         "score": 95.0,
+        "price": 96.9,
         "ingredients": [
             "baby spinach",
             "flour tortilla",
@@ -1948,6 +1962,7 @@
         "ready-time": 30,
         "servings": 8,
         "score": 47.0,
+        "price": 98.85,
         "ingredients": [
             "chili powder",
             "green bell pepper",
@@ -2089,6 +2104,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 59.0,
+        "price": 118.39,
         "ingredients": [
             "broccoli florets",
             "flour",
@@ -2226,6 +2242,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 23.0,
+        "price": 125.66,
         "ingredients": [
             "grape tomatoes",
             "ground beef",
@@ -2361,6 +2378,7 @@
         "ready-time": 10,
         "servings": 1,
         "score": 49.0,
+        "price": 117.28,
         "ingredients": [
             "egg",
             "english muffin",
@@ -2497,6 +2515,7 @@
         "ready-time": 15,
         "servings": 2,
         "score": 96.0,
+        "price": 246.29,
         "ingredients": [
             "baguette",
             "italian cheese blend",
@@ -2624,6 +2643,7 @@
         "ready-time": 40,
         "servings": 3,
         "score": 44.0,
+        "price": 259.57,
         "ingredients": [
             "bacon",
             "corn",
@@ -2761,6 +2781,7 @@
         "ready-time": 30,
         "servings": 4,
         "score": 48.0,
+        "price": 276.07,
         "ingredients": [
             "black olives",
             "garlic",
@@ -2899,6 +2920,7 @@
         "ready-time": 35,
         "servings": 6,
         "score": 90.0,
+        "price": 146.34,
         "ingredients": [
             "bread crumbs",
             "mozzarella",
@@ -3037,6 +3059,7 @@
         "ready-time": 30,
         "servings": 4,
         "score": 63.0,
+        "price": 523.51,
         "ingredients": [
             "baby spinach leaves",
             "chianti",
@@ -3183,6 +3206,7 @@
         "ready-time": 745,
         "servings": 3,
         "score": 93.0,
+        "price": 305.11,
         "ingredients": [
             "artichoke hearts",
             "bread machine yeast",
@@ -3328,6 +3352,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 39.0,
+        "price": 134.82,
         "ingredients": [
             "breadcrumbs",
             "egg",
@@ -3470,6 +3495,7 @@
         "ready-time": 60,
         "servings": 8,
         "score": 67.0,
+        "price": 205.71,
         "ingredients": [
             "canadian bacon",
             "green bell pepper",
@@ -3609,6 +3635,7 @@
         "ready-time": 40,
         "servings": 1,
         "score": 57.0,
+        "price": 206.85,
         "ingredients": [
             "black olives",
             "garlic",
@@ -3746,6 +3773,7 @@
         "ready-time": 45,
         "servings": 2,
         "score": 55.0,
+        "price": 134.15,
         "ingredients": [
             "eggplant",
             "fresh parsley",
@@ -3887,6 +3915,7 @@
         "ready-time": 60,
         "servings": 8,
         "score": 74.0,
+        "price": 195.29,
         "ingredients": [
             "active yeast",
             "bulk pork sausage",
@@ -4033,6 +4062,7 @@
         "ready-time": 60,
         "servings": 6,
         "score": 76.0,
+        "price": 161.81,
         "ingredients": [
             "basil",
             "kalamata olives",
@@ -4170,6 +4200,7 @@
         "ready-time": 120,
         "servings": 5,
         "score": 94.0,
+        "price": 137.84,
         "ingredients": [
             "active yeast",
             "black olives",
@@ -4316,6 +4347,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 58.0,
+        "price": 153.39,
         "ingredients": [
             "fontina cheese",
             "garlic",
@@ -4454,6 +4486,7 @@
         "ready-time": 45,
         "servings": 2,
         "score": 79.0,
+        "price": 364.83,
         "ingredients": [
             "egg",
             "fresh cilantro",
@@ -4598,6 +4631,7 @@
         "ready-time": 30,
         "servings": 4,
         "score": 74.0,
+        "price": 354.4,
         "ingredients": [
             "baby spinach",
             "blue cheese crumbles",
@@ -4734,6 +4768,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 49.0,
+        "price": 178.41,
         "ingredients": [
             "asparagus",
             "bacon",
@@ -4873,6 +4908,7 @@
         "ready-time": 25,
         "servings": 8,
         "score": 48.0,
+        "price": 96.29,
         "ingredients": [
             "barbecue sauce",
             "bell pepper",
@@ -5010,6 +5046,7 @@
         "ready-time": 35,
         "servings": 1,
         "score": 69.0,
+        "price": 205.71,
         "ingredients": [
             "basil pesto",
             "cherry tomatoes",
@@ -5148,6 +5185,7 @@
         "ready-time": 120,
         "servings": 4,
         "score": 91.0,
+        "price": 205.31,
         "ingredients": [
             "active yeast",
             "all purpose flour",
@@ -5293,6 +5331,7 @@
         "ready-time": 55,
         "servings": 2,
         "score": 92.0,
+        "price": 156.96,
         "ingredients": [
             "cheddar cheese",
             "fresh coriander",
@@ -5434,6 +5473,7 @@
         "ready-time": 35,
         "servings": 3,
         "score": 89.0,
+        "price": 313.36,
         "ingredients": [
             "bacon",
             "balsamic vinegar",
@@ -5574,6 +5614,7 @@
         "ready-time": 45,
         "servings": 3,
         "score": 65.0,
+        "price": 343.68,
         "ingredients": [
             "arugula",
             "bacon",
@@ -5720,6 +5761,7 @@
         "ready-time": 30,
         "servings": 3,
         "score": 48.0,
+        "price": 184.86,
         "ingredients": [
             "almond flour",
             "cream cheese",
@@ -5861,6 +5903,7 @@
         "ready-time": 70,
         "servings": 6,
         "score": 96.0,
+        "price": 192.1,
         "ingredients": [
             "basil",
             "bell pepper",
@@ -6005,6 +6048,7 @@
         "ready-time": 45,
         "servings": 2,
         "score": 97.0,
+        "price": 603.59,
         "ingredients": [
             "arugula",
             "cauliflower",
@@ -6149,6 +6193,7 @@
         "ready-time": 35,
         "servings": 4,
         "score": 78.0,
+        "price": 365.05,
         "ingredients": [
             "breakfast sausage",
             "eggs",
@@ -6290,6 +6335,7 @@
         "ready-time": 30,
         "servings": 16,
         "score": 67.0,
+        "price": 202.65,
         "ingredients": [
             "chicken breast",
             "chipotle",
@@ -6429,6 +6475,7 @@
         "ready-time": 90,
         "servings": 8,
         "score": 71.0,
+        "price": 130.48,
         "ingredients": [
             "bread flour",
             "garlic clove",
@@ -6559,6 +6606,7 @@
         "ready-time": 45,
         "servings": 8,
         "score": 99.0,
+        "price": 156.58,
         "ingredients": [
             "crescent roll dough",
             "egg substitute",
@@ -6699,6 +6747,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 92.0,
+        "price": 230.09,
         "ingredients": [
             "sourdough bread",
             "fresh basil",
@@ -6838,6 +6887,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 88.0,
+        "price": 375.11,
         "ingredients": [
             "black olives",
             "french bread",
@@ -6980,6 +7030,7 @@
         "ready-time": 30,
         "servings": 4,
         "score": 51.0,
+        "price": 189.44,
         "ingredients": [
             "flour",
             "fresh thyme leaves",
@@ -7118,6 +7169,7 @@
         "ready-time": 43,
         "servings": 4,
         "score": 57.0,
+        "price": 351.85,
         "ingredients": [
             "alfredo sauce",
             "carrots",
@@ -7262,6 +7314,7 @@
         "ready-time": 90,
         "servings": 2,
         "score": 69.0,
+        "price": 274.24,
         "ingredients": [
             "active yeast",
             "cornmeal",
@@ -7403,6 +7456,7 @@
         "ready-time": 60,
         "servings": 6,
         "score": 32.0,
+        "price": 79.46,
         "ingredients": [
             "anise",
             "eggs",
@@ -7523,6 +7577,7 @@
         "ready-time": 5,
         "servings": 1,
         "score": 74.0,
+        "price": 401.92,
         "ingredients": [
             "cherry tomatoes",
             "coarse kosher salt",
@@ -7664,6 +7719,7 @@
         "ready-time": 70,
         "servings": 6,
         "score": 72.0,
+        "price": 237.88,
         "ingredients": [
             "black olives",
             "canned tomato sauce",
@@ -7808,6 +7864,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 75.0,
+        "price": 304.71,
         "ingredients": [
             "cherry tomatoes",
             "chives",
@@ -7946,6 +8003,7 @@
         "ready-time": 30,
         "servings": 4,
         "score": 52.0,
+        "price": 316.48,
         "ingredients": [
             "basil pesto",
             "cornmeal",
@@ -8080,6 +8138,7 @@
         "ready-time": 35,
         "servings": 8,
         "score": 43.0,
+        "price": 104.93,
         "ingredients": [
             "eggs",
             "ground beef",
@@ -8219,6 +8278,7 @@
         "ready-time": 18,
         "servings": 8,
         "score": 56.0,
+        "price": 184.06,
         "ingredients": [
             "asparagus",
             "extra virgin olive oil",
@@ -8355,6 +8415,7 @@
         "ready-time": 30,
         "servings": 10,
         "score": 47.0,
+        "price": 175.11,
         "ingredients": [
             "italian cheese blend",
             "lean ground turkey",
@@ -8494,6 +8555,7 @@
         "ready-time": 20,
         "servings": 6,
         "score": 34.0,
+        "price": 154.6,
         "ingredients": [
             "artichoke hearts",
             "coarse salt",
@@ -8618,6 +8680,7 @@
         "ready-time": 45,
         "servings": 5,
         "score": 38.0,
+        "price": 280.67,
         "ingredients": [
             "boursin herb cheese",
             "parsley",
@@ -8748,6 +8811,7 @@
         "ready-time": 45,
         "servings": 8,
         "score": 32.0,
+        "price": 152.76,
         "ingredients": [
             "cooked ham",
             "crescent rolls",
@@ -8890,6 +8954,7 @@
         "ready-time": 30,
         "servings": 4,
         "score": 62.0,
+        "price": 195.09,
         "ingredients": [
             "ham",
             "colby jack",
@@ -9027,6 +9092,7 @@
         "ready-time": 110,
         "servings": 6,
         "score": 59.0,
+        "price": 136.19,
         "ingredients": [
             "active yeast",
             "garlic",
@@ -9174,6 +9240,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 46.0,
+        "price": 214.02,
         "ingredients": [
             "chorizo",
             "cornmeal",
@@ -9313,6 +9380,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 86.0,
+        "price": 349.86,
         "ingredients": [
             "active yeast",
             "extra virgin olive oil",
@@ -9449,6 +9517,7 @@
         "ready-time": 60,
         "servings": 2,
         "score": 94.0,
+        "price": 1187.25,
         "ingredients": [
             "buffalo mozzarella",
             "canned chickpeas",
@@ -9598,6 +9667,7 @@
         "ready-time": 40,
         "servings": 2,
         "score": 69.0,
+        "price": 281.44,
         "ingredients": [
             "basil pesto",
             "chicken breasts",
@@ -9735,6 +9805,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 49.0,
+        "price": 225.02,
         "ingredients": [
             "bacon",
             "balsamic vinegar",
@@ -9873,6 +9944,7 @@
         "ready-time": 24,
         "servings": 4,
         "score": 30.0,
+        "price": 234.23,
         "ingredients": [
             "bacon",
             "olive",
@@ -10002,6 +10074,7 @@
         "ready-time": 35,
         "servings": 3,
         "score": 56.0,
+        "price": 156.4,
         "ingredients": [
             "apples",
             "beets",
@@ -10140,6 +10213,7 @@
         "ready-time": 30,
         "servings": 4,
         "score": 65.0,
+        "price": 224.31,
         "ingredients": [
             "fresh mozzarella",
             "ham",
@@ -10276,6 +10350,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 50.0,
+        "price": 267.0,
         "ingredients": [
             "basil leaves",
             "canola oil",
@@ -10425,6 +10500,7 @@
         "ready-time": 40,
         "servings": 2,
         "score": 84.0,
+        "price": 379.43,
         "ingredients": [
             "asparagus",
             "eggs",
@@ -10562,6 +10638,7 @@
         "ready-time": 25,
         "servings": 5,
         "score": 84.0,
+        "price": 302.09,
         "ingredients": [
             "flour tortillas",
             "fresh cilantro",
@@ -10706,6 +10783,7 @@
         "ready-time": 60,
         "servings": 1,
         "score": 96.0,
+        "price": 580.11,
         "ingredients": [
             "almond meal",
             "cauliflower",
@@ -10846,6 +10924,7 @@
         "ready-time": 40,
         "servings": 6,
         "score": 43.0,
+        "price": 224.08,
         "ingredients": [
             "cheese cake mix",
             "olive oil",
@@ -10982,6 +11061,7 @@
         "ready-time": 165,
         "servings": 8,
         "score": 40.0,
+        "price": 95.4,
         "ingredients": [
             "active yeast",
             "butter",
@@ -11119,6 +11199,7 @@
         "ready-time": 13,
         "servings": 6,
         "score": 67.0,
+        "price": 162.59,
         "ingredients": [
             "black olives",
             "blue cheese",
@@ -11260,6 +11341,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 26.0,
+        "price": 186.95,
         "ingredients": [
             "arugula",
             "goat cheese",
@@ -11394,6 +11476,7 @@
         "ready-time": 80,
         "servings": 6,
         "score": 94.0,
+        "price": 49.96,
         "ingredients": [
             "flour",
             "garlic powder",
@@ -11519,6 +11602,7 @@
         "ready-time": 45,
         "servings": 10,
         "score": 56.0,
+        "price": 257.94,
         "ingredients": [
             "fontina cheese",
             "garlic",
@@ -11661,6 +11745,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 42.0,
+        "price": 151.32,
         "ingredients": [
             "egg substitute",
             "fresh mushrooms",
@@ -11802,6 +11887,7 @@
         "ready-time": 4500,
         "servings": 6,
         "score": 68.0,
+        "price": 75.16,
         "ingredients": [
             "active yeast",
             "basil leaves",
@@ -11939,6 +12025,7 @@
         "ready-time": 20,
         "servings": 4,
         "score": 91.0,
+        "price": 184.26,
         "ingredients": [
             "fresh parsley",
             "kosher salt",
@@ -12075,6 +12162,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 58.0,
+        "price": 134.23,
         "ingredients": [
             "barbecue sauce",
             "barbecue sauce",
@@ -12213,6 +12301,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 75.0,
+        "price": 164.82,
         "ingredients": [
             "canned black beans",
             "fresh cilantro",
@@ -12347,6 +12436,7 @@
         "ready-time": 40,
         "servings": 3,
         "score": 64.0,
+        "price": 183.6,
         "ingredients": [
             "bacon",
             "butter",
@@ -12491,6 +12581,7 @@
         "ready-time": 7,
         "servings": 8,
         "score": 63.0,
+        "price": 167.61,
         "ingredients": [
             "flat bread",
             "hummus",
@@ -12623,6 +12714,7 @@
         "ready-time": 45,
         "servings": 1,
         "score": 97.0,
+        "price": 369.93,
         "ingredients": [
             "balsamic vinegar",
             "fresh basil",
@@ -12762,6 +12854,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 41.0,
+        "price": 162.01,
         "ingredients": [
             "canola oil",
             "chili powder",
@@ -12907,6 +13000,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 95.0,
+        "price": 103.86,
         "ingredients": [
             "baby spinach",
             "garlic",
@@ -13044,6 +13138,7 @@
         "ready-time": 55,
         "servings": 6,
         "score": 48.0,
+        "price": 162.45,
         "ingredients": [
             "green peppers",
             "italian sausage",
@@ -13181,6 +13276,7 @@
         "ready-time": 45,
         "servings": 3,
         "score": 65.0,
+        "price": 268.62,
         "ingredients": [
             "chicken wings",
             "green onions",
@@ -13318,6 +13414,7 @@
         "ready-time": 120,
         "servings": 2,
         "score": 89.0,
+        "price": 255.6,
         "ingredients": [
             "black olives",
             "canned tomatoes",
@@ -13458,6 +13555,7 @@
         "ready-time": 25,
         "servings": 8,
         "score": 34.0,
+        "price": 120.88,
         "ingredients": [
             "chives",
             "hot sauce",
@@ -13597,6 +13695,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 21.0,
+        "price": 131.73,
         "ingredients": [
             "bacon",
             "extra virgin olive oil",
@@ -13718,6 +13817,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 65.0,
+        "price": 197.59,
         "ingredients": [
             "baking powder",
             "baking soda",
@@ -13864,6 +13964,7 @@
         "ready-time": 35,
         "servings": 3,
         "score": 95.0,
+        "price": 453.58,
         "ingredients": [
             "active yeast",
             "artichoke hearts",
@@ -14008,6 +14109,7 @@
         "ready-time": 92,
         "servings": 8,
         "score": 57.0,
+        "price": 82.33,
         "ingredients": [
             "barbecue sauce",
             "cornmeal",
@@ -14151,6 +14253,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 84.0,
+        "price": 200.63,
         "ingredients": [
             "allspice",
             "chili flakes",
@@ -14295,6 +14398,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 80.0,
+        "price": 351.26,
         "ingredients": [
             "canned tomato sauce",
             "dried basil",
@@ -14439,6 +14543,7 @@
         "ready-time": 28,
         "servings": 4,
         "score": 32.0,
+        "price": 193.73,
         "ingredients": [
             "beef",
             "fresh cilantro",
@@ -14574,6 +14679,7 @@
         "ready-time": 45,
         "servings": 1,
         "score": 61.0,
+        "price": 278.06,
         "ingredients": [
             "bbq sauce",
             "chicken breast",
@@ -14712,6 +14818,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 80.0,
+        "price": 180.66,
         "ingredients": [
             "all purpose flour",
             "balsamic vinegar",
@@ -14856,6 +14963,7 @@
         "ready-time": 15,
         "servings": 4,
         "score": 37.0,
+        "price": 117.45,
         "ingredients": [
             "bagel",
             "blue cheese",
@@ -14993,6 +15101,7 @@
         "ready-time": 30,
         "servings": 4,
         "score": 99.0,
+        "price": 832.57,
         "ingredients": [
             "beefsteak tomato",
             "flatbread",
@@ -15126,6 +15235,7 @@
         "ready-time": 10,
         "servings": 8,
         "score": 45.0,
+        "price": 186.57,
         "ingredients": [
             "garlic powder",
             "goat cheese",
@@ -15264,6 +15374,7 @@
         "ready-time": 50,
         "servings": 8,
         "score": 98.0,
+        "price": 114.36,
         "ingredients": [
             "bread flour",
             "dried basil",
@@ -15410,6 +15521,7 @@
         "ready-time": 40,
         "servings": 4,
         "score": 65.0,
+        "price": 102.84,
         "ingredients": [
             "flour tortillas",
             "green onions",
@@ -15546,6 +15658,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 65.0,
+        "price": 208.33,
         "ingredients": [
             "part-skim mozzarella cheese",
             "pineapple chunks",
@@ -15670,6 +15783,7 @@
         "ready-time": 35,
         "servings": 8,
         "score": 10.0,
+        "price": 108.64,
         "ingredients": [
             "italian cheese blend",
             "pepperoni",
@@ -15790,6 +15904,7 @@
         "ready-time": 75,
         "servings": 10,
         "score": 76.0,
+        "price": 268.2,
         "ingredients": [
             "avocados",
             "chili powder",
@@ -15940,6 +16055,7 @@
         "ready-time": 93,
         "servings": 8,
         "score": 54.0,
+        "price": 67.14,
         "ingredients": [
             "active yeast",
             "baking soda",
@@ -16078,6 +16194,7 @@
         "ready-time": 40,
         "servings": 4,
         "score": 87.0,
+        "price": 420.82,
         "ingredients": [
             "balsamic vinegar",
             "bell peppers",
@@ -16215,6 +16332,7 @@
         "ready-time": 60,
         "servings": 6,
         "score": 40.0,
+        "price": 258.3,
         "ingredients": [
             "fennel bulb",
             "fennel bulb",
@@ -16354,6 +16472,7 @@
         "ready-time": 60,
         "servings": 8,
         "score": 52.0,
+        "price": 101.82,
         "ingredients": [
             "active yeast",
             "flour",
@@ -16495,6 +16614,7 @@
         "ready-time": 15,
         "servings": 4,
         "score": 97.0,
+        "price": 222.87,
         "ingredients": [
             "bocconcini",
             "coarse salt",
@@ -16629,6 +16749,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 52.0,
+        "price": 168.57,
         "ingredients": [
             "dried basil leaves",
             "egg",
@@ -16767,6 +16888,7 @@
         "ready-time": 35,
         "servings": 8,
         "score": 27.0,
+        "price": 95.92,
         "ingredients": [
             "cilantro",
             "mozzarella",
@@ -16891,6 +17013,7 @@
         "ready-time": 45,
         "servings": 2,
         "score": 74.0,
+        "price": 130.12,
         "ingredients": [
             "bbq sauce",
             "fresh cilantro",
@@ -17025,6 +17148,7 @@
         "ready-time": 55,
         "servings": 4,
         "score": 89.0,
+        "price": 249.53,
         "ingredients": [
             "almond milk",
             "bacon",
@@ -17180,6 +17304,7 @@
         "ready-time": 25,
         "servings": 6,
         "score": 42.0,
+        "price": 182.56,
         "ingredients": [
             "chicken breast",
             "fresh cilantro",
@@ -17319,6 +17444,7 @@
         "ready-time": 17,
         "servings": 1,
         "score": 82.0,
+        "price": 140.68,
         "ingredients": [
             "canadian bacon",
             "english muffin",
@@ -17456,6 +17582,7 @@
         "ready-time": 120,
         "servings": 4,
         "score": 71.0,
+        "price": 627.48,
         "ingredients": [
             "artichoke hearts",
             "caramelized onions",
@@ -17594,6 +17721,7 @@
         "ready-time": 20,
         "servings": 2,
         "score": 89.0,
+        "price": 370.72,
         "ingredients": [
             "brown mushrooms",
             "buckwheat flour",
@@ -17733,6 +17861,7 @@
         "ready-time": 30,
         "servings": 8,
         "score": 57.0,
+        "price": 153.94,
         "ingredients": [
             "broccoli florets",
             "goat cheese",
@@ -17871,6 +18000,7 @@
         "ready-time": 60,
         "servings": 10,
         "score": 55.0,
+        "price": 119.54,
         "ingredients": [
             "artichoke hearts",
             "broccoli florets",
@@ -18011,6 +18141,7 @@
         "ready-time": 105,
         "servings": 6,
         "score": 54.0,
+        "price": 236.58,
         "ingredients": [
             "basil leaves",
             "cherry tomatoes",
@@ -18148,6 +18279,7 @@
         "ready-time": 45,
         "servings": 1,
         "score": 77.0,
+        "price": 331.46,
         "ingredients": [
             "fresh basil",
             "heirloom tomatoes",
@@ -18287,6 +18419,7 @@
         "ready-time": 40,
         "servings": 4,
         "score": 49.0,
+        "price": 123.97,
         "ingredients": [
             "biscuits",
             "egg yolk",
@@ -18426,6 +18559,7 @@
         "ready-time": 35,
         "servings": 2,
         "score": 48.0,
+        "price": 381.3,
         "ingredients": [
             "balsamic vinegar",
             "brown sugar",
@@ -18564,6 +18698,7 @@
         "ready-time": 25,
         "servings": 4,
         "score": 53.0,
+        "price": 121.55,
         "ingredients": [
             "all purpose flour",
             "baking powder",
@@ -18701,6 +18836,7 @@
         "ready-time": 50,
         "servings": 4,
         "score": 74.0,
+        "price": 335.62,
         "ingredients": [
             "bean sprouts",
             "beef",
@@ -18849,6 +18985,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 61.0,
+        "price": 253.65,
         "ingredients": [
             "bacon",
             "balsamic glaze",
@@ -18990,6 +19127,7 @@
         "ready-time": 30,
         "servings": 4,
         "score": 49.0,
+        "price": 244.97,
         "ingredients": [
             "green peppers",
             "onion",
@@ -19128,6 +19266,7 @@
         "ready-time": 40,
         "servings": 6,
         "score": 62.0,
+        "price": 270.34,
         "ingredients": [
             "canned tomato sauce",
             "ground beef",
@@ -19269,6 +19408,7 @@
         "ready-time": 60,
         "servings": 8,
         "score": 61.0,
+        "price": 187.79,
         "ingredients": [
             "biscuits",
             "marinara sauce",
@@ -19405,6 +19545,7 @@
         "ready-time": 45,
         "servings": 8,
         "score": 84.0,
+        "price": 254.73,
         "ingredients": [
             "artichoke hearts",
             "bell pepper",
@@ -19551,6 +19692,7 @@
         "ready-time": 45,
         "servings": 1,
         "score": 66.0,
+        "price": 126.71,
         "ingredients": [
             "balsamic vinegar",
             "basil leaves",
@@ -19688,6 +19830,7 @@
         "ready-time": 30,
         "servings": 4,
         "score": 81.0,
+        "price": 803.03,
         "ingredients": [
             "asparagus",
             "coarse salt",
@@ -19825,6 +19968,7 @@
         "ready-time": 20,
         "servings": 2,
         "score": 87.0,
+        "price": 317.6,
         "ingredients": [
             "eggs",
             "gruyere",
@@ -19962,6 +20106,7 @@
         "ready-time": 30,
         "servings": 8,
         "score": 52.0,
+        "price": 141.76,
         "ingredients": [
             "alfredo sauce",
             "broccoli",
@@ -20099,6 +20244,7 @@
         "ready-time": 45,
         "servings": 2,
         "score": 49.0,
+        "price": 178.67,
         "ingredients": [
             "butter",
             "eggs",
@@ -20238,6 +20384,7 @@
         "ready-time": 59,
         "servings": 6,
         "score": 73.0,
+        "price": 101.64,
         "ingredients": [
             "active yeast",
             "basil",
@@ -20382,6 +20529,7 @@
         "ready-time": 25,
         "servings": 1,
         "score": 53.0,
+        "price": 188.83,
         "ingredients": [
             "olives",
             "pasta sauce",
@@ -20515,6 +20663,7 @@
         "ready-time": 40,
         "servings": 12,
         "score": 40.0,
+        "price": 48.21,
         "ingredients": [
             "active yeast",
             "chives",
@@ -20653,6 +20802,7 @@
         "ready-time": 10,
         "servings": 6,
         "score": 64.0,
+        "price": 149.85,
         "ingredients": [
             "baby spinach",
             "fresh mozzarella",
@@ -20786,6 +20936,7 @@
         "ready-time": 60,
         "servings": 4,
         "score": 32.0,
+        "price": 307.36,
         "ingredients": [
             "butter",
             "corn meal",
@@ -20930,6 +21081,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 30.0,
+        "price": 249.39,
         "ingredients": [
             "asparagus spears",
             "baby bella mushrooms",
@@ -21068,6 +21220,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 44.0,
+        "price": 165.62,
         "ingredients": [
             "canadian bacon",
             "pineapple tidbits",
@@ -21192,6 +21345,7 @@
         "ready-time": 110,
         "servings": 12,
         "score": 41.0,
+        "price": 117.6,
         "ingredients": [
             "active yeast",
             "flour",
@@ -21341,6 +21495,7 @@
         "ready-time": 45,
         "servings": 1,
         "score": 22.0,
+        "price": 44.21,
         "ingredients": [
             "bbq sauce",
             "cheddar cheese",
@@ -21466,6 +21621,7 @@
         "ready-time": 45,
         "servings": 2,
         "score": 86.0,
+        "price": 324.06,
         "ingredients": [
             "coarse salt",
             "extra virgin olive oil",
@@ -21605,6 +21761,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 74.0,
+        "price": 158.33,
         "ingredients": [
             "bacon",
             "bread",
@@ -21742,6 +21899,7 @@
         "ready-time": 45,
         "servings": 8,
         "score": 49.0,
+        "price": 158.66,
         "ingredients": [
             "cooked chicken breasts",
             "garlic",
@@ -21879,6 +22037,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 31.0,
+        "price": 333.95,
         "ingredients": [
             "bacon",
             "cornmeal",
@@ -22020,6 +22179,7 @@
         "ready-time": 148,
         "servings": 12,
         "score": 70.0,
+        "price": 125.55,
         "ingredients": [
             "canned tomatoes",
             "flour",
@@ -22163,6 +22323,7 @@
         "ready-time": 35,
         "servings": 6,
         "score": 42.0,
+        "price": 241.98,
         "ingredients": [
             "cilantro",
             "cooked chicken breasts",
@@ -22303,6 +22464,7 @@
         "ready-time": 40,
         "servings": 4,
         "score": 28.0,
+        "price": 252.23,
         "ingredients": [
             "bacon",
             "canned tomato sauce",
@@ -22444,6 +22606,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 41.0,
+        "price": 153.32,
         "ingredients": [
             "broccoli florets",
             "fresh mushrooms",
@@ -22583,6 +22746,7 @@
         "ready-time": 30,
         "servings": 4,
         "score": 28.0,
+        "price": 213.66,
         "ingredients": [
             "cherry tomatoes",
             "coarse salt",
@@ -22722,6 +22886,7 @@
         "ready-time": 40,
         "servings": 4,
         "score": 63.0,
+        "price": 138.33,
         "ingredients": [
             "active yeast",
             "agave syrup",
@@ -22869,6 +23034,7 @@
         "ready-time": 120,
         "servings": 4,
         "score": 72.0,
+        "price": 122.66,
         "ingredients": [
             "asiago cheese",
             "eggplant",
@@ -23006,6 +23172,7 @@
         "ready-time": 19,
         "servings": 4,
         "score": 41.0,
+        "price": 166.5,
         "ingredients": [
             "carrot",
             "chicken breast",
@@ -23158,6 +23325,7 @@
         "ready-time": 10,
         "servings": 6,
         "score": 32.0,
+        "price": 147.1,
         "ingredients": [
             "fresh basil leaves",
             "fresh mozzarella cheese",
@@ -23286,6 +23454,7 @@
         "ready-time": 45,
         "servings": 5,
         "score": 67.0,
+        "price": 247.12,
         "ingredients": [
             "barbecue sauce",
             "fontina cheese",
@@ -23423,6 +23592,7 @@
         "ready-time": 30,
         "servings": 1,
         "score": 37.0,
+        "price": 136.88,
         "ingredients": [
             "fat-free ricotta cheese",
             "fresh basil leaves",
@@ -23559,6 +23729,7 @@
         "ready-time": 42,
         "servings": 6,
         "score": 44.0,
+        "price": 156.08,
         "ingredients": [
             "fresh basil leaves",
             "kosher salt",
@@ -23697,6 +23868,7 @@
         "ready-time": 45,
         "servings": 10,
         "score": 30.0,
+        "price": 125.29,
         "ingredients": [
             "canola oil",
             "chili powder",
@@ -23839,6 +24011,7 @@
         "ready-time": 40,
         "servings": 6,
         "score": 48.0,
+        "price": 145.7,
         "ingredients": [
             "clams",
             "garlic cloves",
@@ -23977,6 +24150,7 @@
         "ready-time": 35,
         "servings": 6,
         "score": 17.0,
+        "price": 239.5,
         "ingredients": [
             "italian cheese blend",
             "lower sodium soy sauce",
@@ -24100,6 +24274,7 @@
         "ready-time": 20,
         "servings": 1,
         "score": 72.0,
+        "price": 192.45,
         "ingredients": [
             "elbow macaroni",
             "green bell pepper",
@@ -24237,6 +24412,7 @@
         "ready-time": 8,
         "servings": 2,
         "score": 51.0,
+        "price": 414.54,
         "ingredients": [
             "baby arugula",
             "boursin herb cheese",
@@ -24372,6 +24548,7 @@
         "ready-time": 15,
         "servings": 4,
         "score": 27.0,
+        "price": 282.69,
         "ingredients": [
             "basil pesto",
             "chicken",
@@ -24500,6 +24677,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 57.0,
+        "price": 136.27,
         "ingredients": [
             "anchovy",
             "basil",
@@ -24643,6 +24821,7 @@
         "ready-time": 150,
         "servings": 6,
         "score": 61.0,
+        "price": 176.68,
         "ingredients": [
             "blue cheese",
             "buffalo wing sauce",
@@ -24787,6 +24966,7 @@
         "ready-time": 25,
         "servings": 4,
         "score": 39.0,
+        "price": 196.94,
         "ingredients": [
             "chevre cheese",
             "fontina cheese",
@@ -24925,6 +25105,7 @@
         "ready-time": 10,
         "servings": 6,
         "score": 57.0,
+        "price": 311.48,
         "ingredients": [
             "cornmeal",
             "filo dough",
@@ -25060,6 +25241,7 @@
         "ready-time": 60,
         "servings": 4,
         "score": 51.0,
+        "price": 321.31,
         "ingredients": [
             "anchovies",
             "black olives",
@@ -25198,6 +25380,7 @@
         "ready-time": 72,
         "servings": 2,
         "score": 71.0,
+        "price": 309.54,
         "ingredients": [
             "anchovy",
             "basil leaves",
@@ -25344,6 +25527,7 @@
         "ready-time": 15,
         "servings": 6,
         "score": 69.0,
+        "price": 215.41,
         "ingredients": [
             "cooked brown rice",
             "eggs",
@@ -25483,6 +25667,7 @@
         "ready-time": 30,
         "servings": 8,
         "score": 42.0,
+        "price": 241.73,
         "ingredients": [
             "bacon",
             "cooked chicken breasts",
@@ -25619,6 +25804,7 @@
         "ready-time": 170,
         "servings": 4,
         "score": 55.0,
+        "price": 295.95,
         "ingredients": [
             "active yeast",
             "anchovy",
@@ -25765,6 +25951,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 34.0,
+        "price": 178.39,
         "ingredients": [
             "basil leaves",
             "italian turkey sausage",
@@ -25898,6 +26085,7 @@
         "ready-time": 15,
         "servings": 6,
         "score": 24.0,
+        "price": 163.55,
         "ingredients": [
             "bacon",
             "mayo",
@@ -26035,6 +26223,7 @@
         "ready-time": 25,
         "servings": 8,
         "score": 21.0,
+        "price": 141.36,
         "ingredients": [
             "eggs",
             "monterey jack cheese",
@@ -26165,6 +26354,7 @@
         "ready-time": 15,
         "servings": 4,
         "score": 45.0,
+        "price": 371.86,
         "ingredients": [
             "anchovy paste",
             "black olives",
@@ -26305,6 +26495,7 @@
         "ready-time": 60,
         "servings": 6,
         "score": 65.0,
+        "price": 311.49,
         "ingredients": [
             "active yeast",
             "flour",
@@ -26453,6 +26644,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 38.0,
+        "price": 207.65,
         "ingredients": [
             "canned black beans",
             "olive oil",
@@ -26592,6 +26784,7 @@
         "ready-time": 30,
         "servings": 8,
         "score": 24.0,
+        "price": 148.69,
         "ingredients": [
             "lettuce",
             "olives",
@@ -26732,6 +26925,7 @@
         "ready-time": 55,
         "servings": 6,
         "score": 55.0,
+        "price": 197.52,
         "ingredients": [
             "baking powder",
             "bulk pork sausage",
@@ -26881,6 +27075,7 @@
         "ready-time": 35,
         "servings": 8,
         "score": 33.0,
+        "price": 104.3,
         "ingredients": [
             "bread dough",
             "fresh mushrooms",
@@ -27015,6 +27210,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 32.0,
+        "price": 171.58,
         "ingredients": [
             "fresh basil leaves",
             "fresh mozzarella",
@@ -27153,6 +27349,7 @@
         "ready-time": 22,
         "servings": 4,
         "score": 20.0,
+        "price": 174.9,
         "ingredients": [
             "canola oil",
             "dill pickle chips",
@@ -27291,6 +27488,7 @@
         "ready-time": 45,
         "servings": 8,
         "score": 53.0,
+        "price": 245.19,
         "ingredients": [
             "active yeast",
             "arugula",
@@ -27428,6 +27626,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 44.0,
+        "price": 293.05,
         "ingredients": [
             "alfredo sauce",
             "crushed red pepper",
@@ -27569,6 +27768,7 @@
         "ready-time": 25,
         "servings": 6,
         "score": 20.0,
+        "price": 204.2,
         "ingredients": [
             "goat cheese",
             "olive oil",
@@ -27692,6 +27892,7 @@
         "ready-time": 120,
         "servings": 4,
         "score": 72.0,
+        "price": 330.51,
         "ingredients": [
             "escarole",
             "fontina cheese",
@@ -27828,6 +28029,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 41.0,
+        "price": 311.2,
         "ingredients": [
             "feta cheese",
             "lamb",
@@ -27962,6 +28164,7 @@
         "ready-time": 16,
         "servings": 8,
         "score": 45.0,
+        "price": 161.67,
         "ingredients": [
             "canned biscuits",
             "cheddar cheese",
@@ -28103,6 +28306,7 @@
         "ready-time": 32,
         "servings": 8,
         "score": 34.0,
+        "price": 201.45,
         "ingredients": [
             "adobo sauce",
             "bell pepper",
@@ -28251,6 +28455,7 @@
         "ready-time": 25,
         "servings": 8,
         "score": 27.0,
+        "price": 108.68,
         "ingredients": [
             "alfredo sauce",
             "cooked chicken",
@@ -28378,6 +28583,7 @@
         "ready-time": 25,
         "servings": 3,
         "score": 44.0,
+        "price": 464.67,
         "ingredients": [
             "garlic cloves",
             "goat cheese",
@@ -28517,6 +28723,7 @@
         "ready-time": 15,
         "servings": 4,
         "score": 37.0,
+        "price": 155.11,
         "ingredients": [
             "artichoke hearts",
             "garlic cloves",
@@ -28644,6 +28851,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 59.0,
+        "price": 456.59,
         "ingredients": [
             "capers",
             "cooked chicken breast",
@@ -28778,6 +28986,7 @@
         "ready-time": 15,
         "servings": 8,
         "score": 34.0,
+        "price": 129.09,
         "ingredients": [
             "barbecue sauce",
             "fresh parsley",
@@ -28911,6 +29120,7 @@
         "ready-time": 20,
         "servings": 12,
         "score": 30.0,
+        "price": 146.78,
         "ingredients": [
             "egg substitute",
             "fat-free milk",
@@ -29051,6 +29261,7 @@
         "ready-time": 25,
         "servings": 6,
         "score": 20.0,
+        "price": 152.05,
         "ingredients": [
             "bacon",
             "barbecue sauce",
@@ -29190,6 +29401,7 @@
         "ready-time": 60,
         "servings": 2,
         "score": 54.0,
+        "price": 163.65,
         "ingredients": [
             "basil",
             "extra virgin olive oil",
@@ -29334,6 +29546,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 70.0,
+        "price": 119.44,
         "ingredients": [
             "flour tortillas",
             "fresh bean sprouts",
@@ -29469,6 +29682,7 @@
         "ready-time": 135,
         "servings": 6,
         "score": 54.0,
+        "price": 253.3,
         "ingredients": [
             "active yeast",
             "chili powder",
@@ -29618,6 +29832,7 @@
         "ready-time": 30,
         "servings": 8,
         "score": 21.0,
+        "price": 137.3,
         "ingredients": [
             "pizza crust",
             "shredded cheddar cheese",
@@ -29747,6 +29962,7 @@
         "ready-time": 40,
         "servings": 8,
         "score": 33.0,
+        "price": 189.59,
         "ingredients": [
             "canned water chestnuts",
             "chipotle chili puree",
@@ -29890,6 +30106,7 @@
         "ready-time": 20,
         "servings": 6,
         "score": 30.0,
+        "price": 475.29,
         "ingredients": [
             "farmers cheese",
             "fresh mozzarella cheese",
@@ -30028,6 +30245,7 @@
         "ready-time": 190,
         "servings": 8,
         "score": 48.0,
+        "price": 510.67,
         "ingredients": [
             "buffalo mozzarella",
             "canned tomatoes",
@@ -30172,6 +30390,7 @@
         "ready-time": 205,
         "servings": 6,
         "score": 46.0,
+        "price": 215.57,
         "ingredients": [
             "fresh mozzarella",
             "garlic",
@@ -30310,6 +30529,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 43.0,
+        "price": 233.85,
         "ingredients": [
             "bulk pork sausage",
             "eggs",
@@ -30452,6 +30672,7 @@
         "ready-time": 40,
         "servings": 6,
         "score": 51.0,
+        "price": 254.6,
         "ingredients": [
             "canned tomatoes",
             "cherry tomatoes",
@@ -30598,6 +30819,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 29.0,
+        "price": 156.94,
         "ingredients": [
             "asparagus spears",
             "fresh mushrooms",
@@ -30734,6 +30956,7 @@
         "ready-time": 50,
         "servings": 8,
         "score": 32.0,
+        "price": 97.84,
         "ingredients": [
             "eggs",
             "elbow macaroni",
@@ -30873,6 +31096,7 @@
         "ready-time": 35,
         "servings": 8,
         "score": 36.0,
+        "price": 103.84,
         "ingredients": [
             "baby spinach",
             "fresh mushrooms",
@@ -31014,6 +31238,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 61.0,
+        "price": 108.41,
         "ingredients": [
             "dried basil",
             "egg substitute",
@@ -31156,6 +31381,7 @@
         "ready-time": 35,
         "servings": 6,
         "score": 40.0,
+        "price": 94.17,
         "ingredients": [
             "baking mix",
             "cornmeal",
@@ -31297,6 +31523,7 @@
         "ready-time": 45,
         "servings": 8,
         "score": 52.0,
+        "price": 109.45,
         "ingredients": [
             "canned tomato sauce",
             "canola oil",
@@ -31442,6 +31669,7 @@
         "ready-time": 40,
         "servings": 8,
         "score": 22.0,
+        "price": 87.7,
         "ingredients": [
             "canned tomato sauce",
             "dried basil",
@@ -31582,6 +31810,7 @@
         "ready-time": 20,
         "servings": 4,
         "score": 36.0,
+        "price": 217.74,
         "ingredients": [
             "barbecue sauce",
             "cooked chicken",
@@ -31718,6 +31947,7 @@
         "ready-time": 45,
         "servings": 6,
         "score": 40.0,
+        "price": 207.89,
         "ingredients": [
             "baby spinach",
             "fresh mushrooms",
@@ -31862,6 +32092,7 @@
         "ready-time": 20,
         "servings": 6,
         "score": 34.0,
+        "price": 142.24,
         "ingredients": [
             "cooked chicken",
             "pizza crust",
@@ -31993,6 +32224,7 @@
         "ready-time": 40,
         "servings": 6,
         "score": 64.0,
+        "price": 122.56,
         "ingredients": [
             "active yeast",
             "baby spinach",
@@ -32136,6 +32368,7 @@
         "ready-time": 50,
         "servings": 8,
         "score": 19.0,
+        "price": 93.69,
         "ingredients": [
             "egg",
             "flour",
@@ -32275,6 +32508,7 @@
         "ready-time": 55,
         "servings": 15,
         "score": 28.0,
+        "price": 82.49,
         "ingredients": [
             "baking powder",
             "broccoli",
@@ -32426,6 +32660,7 @@
         "ready-time": 75,
         "servings": 12,
         "score": 42.0,
+        "price": 125.81,
         "ingredients": [
             "active yeast",
             "canadian bacon",
@@ -32574,6 +32809,7 @@
         "ready-time": 17,
         "servings": 2,
         "score": 43.0,
+        "price": 214.06,
         "ingredients": [
             "green onions",
             "refried beans",
@@ -32711,6 +32947,7 @@
         "ready-time": 20,
         "servings": 8,
         "score": 37.0,
+        "price": 163.99,
         "ingredients": [
             "mozzarella cheese",
             "pizza dough",
@@ -32845,6 +33082,7 @@
         "ready-time": 180,
         "servings": 4,
         "score": 57.0,
+        "price": 98.06,
         "ingredients": [
             "active yeast",
             "arugula",
@@ -32993,6 +33231,7 @@
         "ready-time": 20,
         "servings": 6,
         "score": 45.0,
+        "price": 303.98,
         "ingredients": [
             "baby arugula",
             "eggs",
@@ -33132,6 +33371,7 @@
         "ready-time": 30,
         "servings": 8,
         "score": 46.0,
+        "price": 230.8,
         "ingredients": [
             "active yeast",
             "brown sugar",
@@ -33274,6 +33514,7 @@
         "ready-time": 5,
         "servings": 8,
         "score": 34.0,
+        "price": 271.38,
         "ingredients": [
             "capers",
             "flour",
@@ -33413,6 +33654,7 @@
         "ready-time": 90,
         "servings": 8,
         "score": 62.0,
+        "price": 218.67,
         "ingredients": [
             "balsamic vinegar",
             "butternut squash",
@@ -33551,6 +33793,7 @@
         "ready-time": 1500,
         "servings": 4,
         "score": 29.0,
+        "price": 358.95,
         "ingredients": [
             "boursin herb cheese",
             "cremini mushrooms",
@@ -33679,6 +33922,7 @@
         "ready-time": 45,
         "servings": 10,
         "score": 37.0,
+        "price": 142.46,
         "ingredients": [
             "crushed red pepper",
             "dried thyme",
@@ -33825,6 +34069,7 @@
         "ready-time": 35,
         "servings": 4,
         "score": 38.0,
+        "price": 258.15,
         "ingredients": [
             "artichoke hearts",
             "green onions",
@@ -33963,6 +34208,7 @@
         "ready-time": 40,
         "servings": 6,
         "score": 40.0,
+        "price": 202.46,
         "ingredients": [
             "basil pesto",
             "cherry tomatoes",
@@ -34106,6 +34352,7 @@
         "ready-time": 45,
         "servings": 4,
         "score": 58.0,
+        "price": 202.17,
         "ingredients": [
             "baby spinach",
             "fontina cheese",
@@ -34250,6 +34497,7 @@
         "ready-time": 40,
         "servings": 6,
         "score": 42.0,
+        "price": 162.23,
         "ingredients": [
             "italian turkey sausage",
             "lower sodium soy sauce",
@@ -34386,6 +34634,7 @@
         "ready-time": 35,
         "servings": 6,
         "score": 35.0,
+        "price": 296.08,
         "ingredients": [
             "cornmeal",
             "feta cheese",
@@ -34522,6 +34771,7 @@
         "ready-time": 30,
         "servings": 6,
         "score": 18.0,
+        "price": 140.66,
         "ingredients": [
             "kosher salt",
             "olive oil",

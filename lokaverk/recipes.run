@@ -1,4 +1,5 @@
 reset;
+option solver gurobi;
 model recipes.mod;
 data recipes.dat;
 solve;

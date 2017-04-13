@@ -1,44 +1,27 @@
-# The set of recipes
 set recipe;
-set time;
-
-# The set of nutrients
+set day;
 set nutrient;
-
-# The set of ingredience
 set ingredient;
 
-# Indicator to tell us that the recipe is chosen
-var x{recipe} binary;
+var x{day, recipe} binary;
 
-# Indicator to tell us that an ingredient is chosen
-var y{ingredient} binary;
-
-# The time taken to make the recipe
 param ready_time{recipe};
-
-#How many servings per recipe
 param servings{recipe};
-
-#The score the recipe gets on spoonacular, 0 - 100%
 param score{recipe};
+param price{recipe};
 
-# The amount if nutrients found in a dish
 param recipenutrient{recipe, nutrient} >= 0, default 0;
 param recipeingredient{recipe, ingredient} >= 0, default 0;
+param numberofingredient{r in recipe} := sum{i in ingredient: recipeingredient[r,i] > 0} 1;
 
-# For example: select 3 dishes
-subject to theplan: sum{r in recipe} x[r] = 3;
-
-#subject to MinLimit{a in recipe} : 3 >= x[a] >= 0;
-#subject to MaxLimit{a in time, d in recipe}: x[a, d] <= 3;
-	
-maximize nutr {n in nutrient}: 
-	sum{r in recipe} recipenutrient[r, n]  * x[r]; 
-	 
-#Maximize the score of the recipes 
+subject to threeRecipesPerDay {d in day}: sum{r in recipe} x[d, r] = 3;
+subject to recipeMaxThreeTimes {r in recipe}: sum{d in day} x[d, r] <= 3;
+		 
 minimize objfunction:
-  - nutr
-  - sum{r in recipe} score[r] * x[r]
-  + sum{i in ingredient} y[i];
+  	  1.00 * sum{d in day, n in nutrient} (100 - sum{r in recipe} recipenutrient[r, n]/servings[r]  * x[d,r])
+	- 0.50 * sum{d in day, r in recipe} score[r] * x[d,r]
+	+ 1.00 * sum{d in day, r in recipe} ready_time[r] * x[d,r]
+  	+ 0.15 * sum{d in day, r in recipe} price[r] * x[d,r]
+  	+ 5.00 * sum{d in day, r in recipe} numberofingredient[r] * x[d,r]
+	;
   
