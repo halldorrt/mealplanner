@@ -21,7 +21,7 @@ list(map(lambda x: datfile.write(' ' + x), ingredients))
 datfile.write('\n;\n\n')
 
 nutrients = set()
-list(map(lambda x: nutrients.add(c(x['name'])), recipes[0]['nutrients']))
+[list(map(lambda x: nutrients.add(c(x['name'])), recipe['nutrients'])) for recipe in recipes]
 datfile.write('set nutrient :=')
 list(map(lambda x: datfile.write(' ' + x), nutrients))
 datfile.write('\n;\n\n')
